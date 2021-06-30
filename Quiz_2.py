@@ -1,10 +1,11 @@
 #Dont have any IDE setup on my laptop as working on databricks these days. 
-#Written a python class that works with the base fuctionality 
+#Written a python class that works with the base functionality 
 #And can be easily connected to an http end point when needed.
-#But i think it is more important to have a working test code that completes the functionality required
+#I think it is more important to have a working test code that completes the functionality required
 
-#One improvement that I added on the code below, In response error description
-#I added abiltiy to return error descriptions in mulitple languages
+#One improvement that I added on the code below, In response error description.
+#I added ability to return error descriptions in multiple languages
+
 
 class Localized_Text:
   
